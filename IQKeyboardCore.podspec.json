@@ -1,6 +1,6 @@
 {
     "name": "IQKeyboardCore",
-    "version": "1.0.9",
+    "version": "1",
     "source": {
         "git": "https://github.com/cdanielabr/IQKeyboardCore.git",
         "tag": "main"
